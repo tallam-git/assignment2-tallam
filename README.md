@@ -11,9 +11,15 @@ Cricket is like a **religion** in India and the players are considered to be **d
 
 ### Favorite Team and Best Players
 My Favourite team in Cricket is India.
-##### Best players List :
+### Best players List :
    1. Sachin Tendulkar
    2. Mahendra Singh Dhoni
    3. Virat Kohli
+
+### Other good teams to watch out for :
+   * Australia
+   * England
+   * NewZealand
+
 
    
