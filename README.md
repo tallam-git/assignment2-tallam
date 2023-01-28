@@ -57,3 +57,5 @@ genNew.addEventListener("click", setBg);
 setBg();
 ```
 [Click here to review more discussion - Stackoverflow](https://stackoverflow.com/questions/1484506/random-color-generator)
+
+[css-tricks.com](https://css-tricks.com/snippets/javascript/random-hex-color/)
