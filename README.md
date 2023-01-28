@@ -23,4 +23,16 @@ My Favourite team in Cricket is India.
 
 [To know more about me click here](https://github.com/tallam-git/assignment2-tallam/blob/main/AboutMe.md)
 
+---
+
+### Countries to visit in your Lifetime
+The below tables provides the information about the list of countries that I personally recommend others to visit, ***once in their life time***.
+It also provides the ***interesting facts*** about the country to visit and finally suggests ***number of days*** to be spent in that place.
+
+| Name of the Country | Reason to Recommend | Recommended No of days to spend  |
+|:---:|:---:|:---:|
+| INDIA |  To learn the culture  | Atleast a year  |
+| MALDIVES |  A perfect destination for a vacation, to re-energize one-self  | 2 weeks  |
+| ITALY | Magic place to share with that one special person | 1 month  |
+| UAE |  To experience what the Luxuorious life looks like | Atleast a month |
    
