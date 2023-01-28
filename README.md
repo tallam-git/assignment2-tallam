@@ -35,4 +35,10 @@ It also provides the ***interesting facts*** about the country to visit and fina
 | MALDIVES |  A perfect destination for a vacation, to re-energize one-self  | 2 weeks  |
 | ITALY | Magic place to share with that one special person | 1 month  |
 | UAE |  To experience what the Luxuorious life looks like | Atleast a month |
-   
+
+---
+
+### Funny Quotations
+> Why is there so much month left at the end of the money?   - *John Barrymore*
+> 
+> Accept who you are. Unless you’re a serial killer. - *Ellen DeGeneres*
