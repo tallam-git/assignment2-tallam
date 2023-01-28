@@ -21,5 +21,6 @@ My Favourite team in Cricket is India.
    * England
    * NewZealand
 
+[To know more about me click here](https://github.com/tallam-git/assignment2-tallam/blob/main/AboutMe.md)
 
    
