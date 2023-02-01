@@ -21,8 +21,6 @@ My Favourite team in Cricket is India.
    * England
    * NewZealand
 
-[To know more about me click here](https://github.com/tallam-git/assignment2-tallam/blob/main/AboutMe.md)
-
 ---
 
 ### Countries to visit in your Lifetime
@@ -60,3 +58,5 @@ genNew.addEventListener("click", setBg);
 setBg();
 ```
 <https://css-tricks.com/snippets/javascript/random-hex-color/>
+
+[To know more about me click here](https://github.com/tallam-git/assignment2-tallam/blob/main/AboutMe.md)
